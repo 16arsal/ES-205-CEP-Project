@@ -1,5 +1,7 @@
+# Importing pandas library for data manipulation
 import pandas as pd
 
+# Function to load data from a CSV file
 def load_data(file_path):
     return pd.read_csv(file_path)
 
