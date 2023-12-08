@@ -5,6 +5,8 @@ import pandas as pd
 def load_data(file_path):
     return pd.read_csv(file_path)
 
+
+
 def explore_data(data_frame):
     print("Dataset Structure:")
     print(data_frame.info())
