@@ -1,6 +1,6 @@
 
 ES-205-CEP-Project
-Semester Project for ES-205 (Advance Linear Algebra)
+Semester Project for ES-205 (Advanced Linear Algebra)
 
 Members:
 
@@ -14,7 +14,7 @@ This project explores the application of linear regression and matrix factorizat
 
 Data:
 
-We are using historical data of the S&P 500 index and individual stock constituents.
+We are using historical data from the S&P 500 index and individual stock constituents.
 The data includes features such as opening price, closing price, high price, low price, volume, and dividend yield.
 Methodology:
 
@@ -24,12 +24,12 @@ Cleaning and processing the S&P 500 data to address missing values, outliers, an
 Feature engineering: creating new features that may be relevant for prediction.
 Linear Regression:
 Building a linear regression model to predict the closing price of a specific stock based on other features.
-Evaluating the model performance using metrics such as R-squared and mean squared error.
+We are evaluating the model performance using metrics such as R-squared and mean-squared error.
 Matrix Factorization:
 Applying matrix factorization techniques like Non-negative Matrix Factorization (NMF) to uncover hidden patterns and relationships within the stock data.
 Analyzing the identified factors and interpreting their meaning in the context of the stock market.
 Investment Analysis:
-Utilizing the insights gained from linear regression and matrix factorization to identify potential investment opportunities based on predicted stock performance.
+The insights gained from linear regression and matrix factorization are used to identify potential investment opportunities based on predicted stock performance.
 Software Tools:
 
 Python libraries: NumPy, Pandas, Scikit-learn, TensorFlow
@@ -38,7 +38,7 @@ Visualization tools: Matplotlib, Seaborn
 Project Deliverables:
 
 A comprehensive report detailing the project methodology, data analysis, model results, and investment insights.
-Python code implementing the data cleaning, linear regression, matrix factorization, and visualization components.
+Python code implements data cleaning, linear regression, matrix factorization, and visualization components.
 Presentation slides summarizing the project findings and key takeaways.
 Project Schedule:
 
