@@ -24,12 +24,9 @@ Utilizing historical data from the S&P 500 index and individual stock constituen
 - Application of matrix factorization techniques like Non-negative Matrix Factorization (NMF) to unveil hidden patterns and relationships within the stock data.
 - In-depth analysis of identified factors and their interpretation in the context of the dynamic stock market.
 
-### Investment Analysis 💼
-- Utilizing insights from both linear regression and matrix factorization to pinpoint potential investment opportunities based on predicted stock performance.
-
 ## Software Tools 🛠️
-- Python libraries: NumPy, Pandas, Scikit-learn, TensorFlow
-- Visualization tools: Matplotlib, Seaborn
+- Python libraries: NumPy, Pandas, Scikit-learn
+- Visualization tools: Matplotlib
 
 ## Project Deliverables 📦
 1. **Comprehensive Report 📄**
@@ -40,9 +37,6 @@ Utilizing historical data from the S&P 500 index and individual stock constituen
 
 3. **Presentation Slides 🎤**
    - Concise slides summarizing project findings and key takeaways.
-
-## Project Schedule 🗓️
-- [Insert your project schedule here]
 
 ## Expected Outcomes 🎯
 1. Develop a robust linear regression model for predicting stock closing prices.
