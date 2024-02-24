@@ -50,4 +50,4 @@ Utilizing historical data from the S&P 500 index and individual stock constituen
 - Developing a web application for investors to leverage insights generated from this project.
 
 ## Contact Us 📧
-Feel free to reach out for any further questions or discussions about the project on any of the github account inside the commit section.
+Feel free to reach out for any further questions or discussions about the project on any of the github account.
